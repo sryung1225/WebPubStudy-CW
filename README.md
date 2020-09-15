@@ -13,7 +13,7 @@
    - Media Query
    - 모바일 내비게이션 + 섹션
 
-> 섹션 작업 시, 상대적인 난이가 낮은 순으로 시작할 것 추천
+> 섹션 작업 시, 상대적인 난이가 낮은 순으로 시작할 것 추천<br>
 > 5.Awards > 2.About > 6.Location > 7.Contact > 4.Plan > 3.Project > 1.Home
 
 4. Awards Section
