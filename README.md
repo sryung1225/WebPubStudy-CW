@@ -31,4 +31,9 @@
 10. Home Section 
     - CSS 키프레임 애니메이션
 
+<br>
 
+# 실습
+private 레파지토리에 따로 실습 중<br>
+[https://github.com/sryung1225/WebPubStudy-CW-Act](https://github.com/sryung1225/WebPubStudy-CW-Act)
+![실습](Img/0.PNG)<br>
