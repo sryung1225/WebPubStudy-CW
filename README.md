@@ -50,7 +50,10 @@
     - 레이아웃
     - CSS keyframe 애니메이션
     - favicon
-- [ ] 11. 서브페이지 퍼블리싱 (Hiring Info)
+- [x] 11. 서브페이지 퍼블리싱 (Hiring Info) [Click](https://github.com/sryung1225/WebPubStudy-CW/blob/master/11.%20%EC%84%9C%EB%B8%8C%ED%8E%98%EC%9D%B4%EC%A7%80%20Hiring%20%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%8B%B1.md)
+	- 고정 상단바
+	- 가상클래스 :before
+	- transform
 - [ ] 12. 서브페이지 퍼블리싱 (Project Detail)
 - [ ] 13. 서브페이지 링크하기 (Model Iframe Jquery Plugin)
 - [ ] 14. 메인페이지 모든 섹션 모바일로 변환하기 (index 파일)
