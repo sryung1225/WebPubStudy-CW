@@ -57,6 +57,9 @@
 - [ ] 12. 서브페이지 퍼블리싱 (Project Detail)
 - [ ] 13. 서브페이지 링크하기 (Model Iframe Jquery Plugin)
 - [ ] 14. 메인페이지 모든 섹션 모바일로 변환하기 (index 파일)
+	- 모바일 변환 필수 핵심 이론
+	- 기본셋팅
+	- 각 섹션
 - [ ] 15. 서브페이지 모바일로 변환하기 (hiring, project)
 
 <br>
