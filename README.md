@@ -56,7 +56,7 @@
 	- transform
 - [ ] 12. 서브페이지 퍼블리싱 (Project Detail)
 - [ ] 13. 서브페이지 링크하기 (Model Iframe Jquery Plugin)
-- [ ] 14. 메인페이지 모든 섹션 모바일로 변환하기 (index 파일)
+- [x] 14. 메인페이지 모든 섹션 모바일로 변환하기 [Click](https://github.com/sryung1225/WebPubStudy-CW/blob/master/14.%20%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80%20%EB%AA%A8%EB%93%A0%20%EC%84%B9%EC%85%98%20%EB%AA%A8%EB%B0%94%EC%9D%BC%EB%A1%9C%20%EB%B3%80%ED%99%98.md)
 	- 모바일 변환 필수 핵심 이론
 	- 기본셋팅
 	- 각 섹션
